@@ -1,2 +1,2 @@
-# coccinelle-ok
-COCCINELLE scripts Outside the Kernel
+# cocci-ok
+Coccinelle scripts Outside the Kernel
